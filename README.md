@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Vasya Svistun! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRyaWQ1dTNrZm1vZ2p0aG5mMDdqOTlleW9iNG9kbXpjaWs2djE4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UqBRxF6u3GBgvffLyK/giphy.gif" width="230">
 <p><em>Technical Lead at <a href="https://pochta.tech">Pochta Tech
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
